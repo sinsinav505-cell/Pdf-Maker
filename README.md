@@ -21,4 +21,11 @@ The application follows a clean separation of concerns:
 
 ---
 
-## 📂 Project Structure
+
+## ✅ Features
+- Upload `.txt` and `.docx` files
+- Validates file type and empty files
+- Converts uploaded content into PDF format
+- Download the generated PDF
+- Clean full-stack architecture
+- Error handling for unsupported files
